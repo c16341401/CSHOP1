@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406718496561",
+    "project_id": "cshop-fb50b",
+    "storage_bucket": "cshop-fb50b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406718496561:android:d4da07c11ff11f71617a10",
+        "android_client_info": {
+          "package_name": "com.example.cshop1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406718496561-v9im5ih53uhmdvdn25ad1tfe8in8lcbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKEgTfESBnpNyqqgSXJ-6HRstKVXwymPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406718496561-v9im5ih53uhmdvdn25ad1tfe8in8lcbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

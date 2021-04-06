@@ -1,0 +1,3 @@
+include ':opencv451'
+include ':app'
+rootProject.name = "CSHOP1"
